@@ -4,9 +4,14 @@ import domain.Exercise;
 
 public class TestResult {
 
-    public static void main(String[] args) {
-
-        int R=10;
-        System.out.println("Area of a circle for R="+R+"m is "+Exercise.Calculate(R)+"m"+'\u00B2');
-    }
+     public static void main(String[] args) {
+       try {
+           int input = 401211;
+           System.out.printf("�ividers of %d : %s.",input, Exercise.Calculate(input));
+       }
+       catch(Exception e) {
+           System.out.println(e.getMessage());
+       }
+   }
+   
 }
