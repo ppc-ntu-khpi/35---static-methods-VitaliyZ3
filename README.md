@@ -1,4 +1,4 @@
-# Практична робота "Створення і використання статичних методів"
+# Практична робота "Ідентифікатори, ключові слова, типи даних"
 Цей репозиторій містить стартовий код для виконання практичної роботи, який містить заготовки двох класів, якідемонструють структуру проекту для виконання завдань "обчислювального характеру"
 <img src="https://github.com/ppc-ntu-khpi/identifiers-types-starter/blob/master/computation.png" width="100%"/>
 ## В рамках практичної роботи ви маєте зробити наступне:
@@ -12,8 +12,6 @@
 5. здати завдання. **Нагадую, що здаючи завдання через Google Classroom, слід вказати посилання на створений для вас репозиторій!**
 
 **P.S.** Ви можете обрати завдання на власний розсуд - реалізувати алгоритм, який вас зацікавив, однак якщо буде багато однакових класів, завдання не буде зараховано - намагайтесь робити самотужки та у власному стилі! Звісно ж, ніхто не забороняє користуватись Інтернетом, шукати й використовувати знайдене у Мережі!
-
-**P.P.S.** Не соромтесь обговорювати свої завдання та задавати питання в [Gitter](https://gitter.im/PPC-SE-2020/OOP?utm_source=share-link&utm_medium=link&utm_campaign=share-link) - місці, де спілкуються розробники, там вже є [чат-кімната](https://gitter.im/PPC-SE-2020/OOP?utm_source=share-link&utm_medium=link&utm_campaign=share-link) для наших завдань.
 
 ----
 
@@ -42,6 +40,3 @@
 22. Перетворити задане число з двійкової системи на [код Грея](https://ru.wikipedia.org/wiki/%D0%97%D0%BB%D0%BE%D0%B5_%D1%87%D0%B8%D1%81%D0%BB%D0%BE)
 23. Розрахувати [число долі](https://sergeiyurev.com/chislo-sudby-v-numerologii/) за заданою датою народження 
 24. Розрахувати поточне (на сьогоднішній день) значення [біоритмів людини](http://uchinfo.com.ua/inform/excel/bioritm.htm) за заданою датою народження 
-
-[![Run on Repl.it](https://repl.it/badge/github/ppc-ntu-khpi/identifiers-types-starter)](https://repl.it/github/ppc-ntu-khpi/identifiers-types-starter) [![Gitter](https://badges.gitter.im/PPC-SE-2020/OOP.svg)](https://gitter.im/PPC-SE-2020/OOP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
